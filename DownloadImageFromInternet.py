@@ -12,4 +12,5 @@ def download_web_image(url):
     #urllib.request.urlretrieve(url, filename, reporthook, data) - copy a network object denoted by url to local file
     urllib.request.urlretrieve(url, file_name)
 
+#The argument of download_web_image() is the image address or image URL
 download_web_image("https://s-media-cache-ak0.pinimg.com/236x/0f/41/80/0f4180e569266d88417ec59d58e533d5.jpg")
