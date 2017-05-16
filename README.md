@@ -14,3 +14,11 @@
 <b> Notes: </b> When you run this program, the text file gets generated to the location where your program is stored. <br>
 <b> Screenshots: </b> <a href = "https://github.com/patilankita79/Python-Practise/tree/master/Reading%20and%20writing%20files%20in%20Python/Screenshots" /> Screenshots </a>
 <hr>
+
+<hr>
+<b> Problem: </b> A program to download a csv file from internet (Can be used to download any regular file) <br>
+<b> Folder name:</b><a href = "https://github.com/patilankita79/Python-Practise/tree/master/Downloading%20a%20csv%20file%20from%20internet" /> Downloading a csv file from internet </a> <br>
+<b> Filename: </b> <a href ="https://github.com/patilankita79/Python-Practise/blob/master/Downloading%20a%20csv%20file%20from%20internet/DownloadingFileFromInternet.py" /> DownloadingFileFromInternet.py </a> <br>
+<b> Notes: </b> When you run this program, the csv file gets generated to the location where your program is stored. <br>
+<b> Screenshots: </b> <a href = "https://github.com/patilankita79/Python-Practise/tree/master/Downloading%20a%20csv%20file%20from%20internet/Screenshots" /> Screenshots </a>
+<hr>
